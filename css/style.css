@@ -4,4 +4,5 @@ td {
   height:50px;
   text-align:center;
   vertical-align:middle;
+  box-shadow: 0 0 10px gray;
 }
